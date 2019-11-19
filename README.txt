@@ -14,7 +14,8 @@
 !*     "Clusterwise Linear Regression based Missing Value Imputation     * 
 !*     for Data Preprocessing" by authours:                              *
 !*     "N. Karmitsa, S. Taheri, A. Bagirov, P. Mäkinen"                  *
-!*     is submitted to a journal and its author version is attached.     *
+!*     is submitted to a journal and its author version is:              *
+!*     Iviaclr_tucs.pdf which is attached.                               *
 !*************************************************************************
 !*
 !*
